@@ -21,15 +21,15 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 
 ## Cronograma (quartas‑feiras)
 
-1. **Aula 1 — 11/02/2026** — Introdução ao pensamento computacional
-2. **Aula 2 — 18/02/2026** — Algoritmo textual / pseudocódigo
-3. **Aula 3 — 25/02/2026** — Fluxograma e conversão para pseudocódigo
-4. **Aula 4 — 04/03/2026** — VisuALG I: tipos de dados, entrada/saída
-5. **Aula 5 — 11/03/2026** — VisuALG II: estrutura sequencial aplicada
-6. **Aula 6 — 18/03/2026** — VisuALG III: qualidade do algoritmo e testes
-7. **Aula 7 — 25/03/2026** — Reserva / revisão (reforço de conceitos)
-8. **Aula 8 — 01/04/2026** — VisuALG IV: condicionais I (`se` / `senao`)
-9. **Aula 9 — 08/04/2026** — VisuALG V: condicionais II (encadeadas / validações)
+1. **Aula 01 — 11/02/2026** — Introdução ao pensamento computacional
+2. **Aula 02 — 18/02/2026** — Algoritmo textual / pseudocódigo
+3. **Aula 03 — 25/02/2026** — Fluxograma e conversão para pseudocódigo
+4. **Aula 04 — 04/03/2026** — VisuALG I: tipos de dados, entrada/saída
+5. **Aula 05 — 11/03/2026** — VisuALG II: estrutura sequencial aplicada
+6. **Aula 06 — 18/03/2026** — VisuALG III: qualidade do algoritmo e testes
+7. **Aula 07 — 25/03/2026** — Reserva / revisão (reforço de conceitos)
+8. **Aula 08 — 01/04/2026** — VisuALG IV: condicionais I (`se` / `senao`)
+9. **Aula 09 — 08/04/2026** — VisuALG V: condicionais II (encadeadas / validações)
 10. **Aula 10 — 15/04/2026** — VisuALG VI: repetição I (`para`, `enquanto`) + contadores
 11. **Aula 11 — 22/04/2026** — C++ I: traduzindo pseudocódigo para C++ (tipos, IO)
 12. **Aula 12 — 29/04/2026** — C++ II: condicionais e boas práticas
