@@ -9,7 +9,7 @@
 
 Esta disciplina desenvolve raciocínio algorítmico e lógica de programação usando pseudocódigo em `VisuALG` (Portugol) como meio principal de ensino, seguido da tradução e revisão dos conceitos em C++ aplicados ao Arduino. O foco é consolidar estruturas (sequência, decisão, repetição) em pseudocódigo e aplicar essas ideias em C++/Arduino.
 
-## Objetivos rápidos
+## Objetivos
 
 - Desenvolver decomposição de problemas e modelagem IPO (entrada‑processamento‑saída).
 - Escrever algoritmos claros em pseudocódigo e traduzi‑los para C++/Arduino.
