@@ -21,27 +21,27 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 
 ## Cronograma (quartas‑feiras)
 
-**Aula 01 — 11/02/2026** — Introdução ao pensamento computacional
-**Aula 02 — 18/02/2026** — Algoritmo textual / pseudocódigo
-**Aula 03 — 25/02/2026** — Fluxograma e conversão para pseudocódigo
-**Aula 04 — 04/03/2026** — VisuALG I: tipos de dados, entrada/saída
-**Aula 05 — 11/03/2026** — VisuALG II: estrutura sequencial aplicada
-**Aula 06 — 18/03/2026** — VisuALG III: qualidade do algoritmo e testes
-**Aula 07 — 25/03/2026** — Reserva / revisão (reforço de conceitos)
-**Aula 08 — 01/04/2026** — VisuALG IV: condicionais I (`se` / `senao`)
-**Aula 09 — 08/04/2026** — VisuALG V: condicionais II (encadeadas / validações)
-**Aula 10 — 15/04/2026** — VisuALG VI: repetição I (`para`, `enquanto`) + contadores
-**Aula 11 — 22/04/2026** — C++ I: traduzindo pseudocódigo para C++ (tipos, IO)
-**Aula 12 — 29/04/2026** — C++ II: condicionais e boas práticas
-**Aula 13 — 06/05/2026** — Arduino I: ambiente, Serial e IPO
-**Aula 14 — 13/05/2026** — Arduino II: condicionais com I/O (LED, botão)
-**Aula 15 — 20/05/2026** — Arduino III: repetição e integração (contadores/acumuladores)
-**Aula 16 — 27/05/2026** — Reserva
-**Aula 17 — 03/06/2026** — Projeto I: tema, escopo e ética (início)
-**Aula 18 — 10/06/2026** — Projeto II: algoritmo textual do sistema (+ fluxo macro opcional)
-**Aula 19 — 17/06/2026** — Reserva / oficina do projeto (clínica de bugs)
-**Aula 20 — 24/06/2026** — Projeto III: implementação, testes e documentação
-**Aula 21 — 01/07/2026** — Apresentações finais, ajustes e recuperação
+- **Aula 01 — 11/02/2026** — Introdução ao pensamento computacional
+- **Aula 02 — 18/02/2026** — Algoritmo textual / pseudocódigo
+- **Aula 03 — 25/02/2026** — Fluxograma e conversão para pseudocódigo
+- **Aula 04 — 04/03/2026** — VisuALG I: tipos de dados, entrada/saída
+- **Aula 05 — 11/03/2026** — VisuALG II: estrutura sequencial aplicada
+- **Aula 06 — 18/03/2026** — VisuALG III: qualidade do algoritmo e testes
+- **Aula 07 — 25/03/2026** — Reserva / revisão (reforço de conceitos)
+- **Aula 08 — 01/04/2026** — VisuALG IV: condicionais I (`se` / `senao`)
+- **Aula 09 — 08/04/2026** — VisuALG V: condicionais II (encadeadas / validações)
+- **Aula 10 — 15/04/2026** — VisuALG VI: repetição I (`para`, `enquanto`) + contadores
+- **Aula 11 — 22/04/2026** — C++ I: traduzindo pseudocódigo para C++ (tipos, IO)
+- **Aula 12 — 29/04/2026** — C++ II: condicionais e boas práticas
+- **Aula 13 — 06/05/2026** — Arduino I: ambiente, Serial e IPO
+- **Aula 14 — 13/05/2026** — Arduino II: condicionais com I/O (LED, botão)
+- **Aula 15 — 20/05/2026** — Arduino III: repetição e integração (contadores/acumuladores)
+- **Aula 16 — 27/05/2026** — Reserva
+- **Aula 17 — 03/06/2026** — Projeto I: tema, escopo e ética (início)
+- **Aula 18 — 10/06/2026** — Projeto II: algoritmo textual do sistema (+ fluxo macro opcional)
+- **Aula 19 — 17/06/2026** — Reserva / oficina do projeto (clínica de bugs)
+- **Aula 20 — 24/06/2026** — Projeto III: implementação, testes e documentação
+- **Aula 21 — 01/07/2026** — Apresentações finais, ajustes e recuperação
 
 ## Avaliação
 
