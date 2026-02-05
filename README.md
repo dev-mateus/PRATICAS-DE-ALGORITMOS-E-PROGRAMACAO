@@ -1,5 +1,3 @@
-[# Plano de Aulas — PRÁTICAS DE ALGORITMOS E PROGRAMAÇÃO](PLANO-AULA.md)
-
 **Universidade:** Centro Universtário UNA - Pouso Alegre  
 **Período:** 1º semestre de 2026  
 **Cronograma:** 21 aulas semanais (quartas‑feiras), 11/02/2026 à 01/07/2026
