@@ -68,9 +68,7 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 
 ## Avaliação (resumida)
 
-- Atividades práticas e exercícios: **50%** (contínuo)
-- Projeto integrador: **30%** (pseudocódigo, código, documentação)
-- Participação e mini‑avaliações: **20%** (quizzes / avaliação prática)
+- Em contrução
 
 ## Materiais e ferramentas
 
