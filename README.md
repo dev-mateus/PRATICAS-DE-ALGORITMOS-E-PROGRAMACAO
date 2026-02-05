@@ -1,9 +1,8 @@
 [# Plano de Aulas — PRÁTICAS DE ALGORITMOS E PROGRAMAÇÃO](PLANO-AULA.md)
 
-**Universidade:** Universidade UNA Pouso Alegre  
+**Universidade:** Centro Universtário UNA - Pouso Alegre  
 **Período:** 1º semestre de 2026  
-**Cronograma:** 21 aulas semanais (quartas‑feiras), 11/02/2026 — 01/07/2026  
-**Duração:** 3h por aula
+**Cronograma:** 21 aulas semanais (quartas‑feiras), 11/02/2026 à 01/07/2026
 
 ## Resumo
 
@@ -18,12 +17,12 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 ## Formato das aulas
 
 - Aulas semanais de 3 horas, com atividade prática em sala.
-- Entregáveis finais: pseudocódigo, código Arduino, relatório curto (aspectos éticos) e apresentação.
+- Entregáveis finais: pseudocódigo, código Arduino, relatório curto (aspectos éticos) e apresentação, a depender da aula.
 
 ## Cronograma (quartas‑feiras)
 
-1. **Aula 1 — 11/02/2026** — Abertura, diagnóstico e pensamento computacional
-2. **Aula 2 — 18/02/2026** — Algoritmo textual / pseudocódigo (IPO)
+1. **Aula 1 — 11/02/2026** — Introdução ao pensamento computacional
+2. **Aula 2 — 18/02/2026** — Algoritmo textual / pseudocódigo
 3. **Aula 3 — 25/02/2026** — Fluxograma e conversão para pseudocódigo
 4. **Aula 4 — 04/03/2026** — VisuALG I: tipos de dados, entrada/saída
 5. **Aula 5 — 11/03/2026** — VisuALG II: estrutura sequencial aplicada
