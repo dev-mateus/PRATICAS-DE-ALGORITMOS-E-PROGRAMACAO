@@ -1,4 +1,3 @@
----
 # Plano de Aulas — PRÁTICAS DE ALGORITMOS E PROGRAMAÇÃO
 
 **Universidade:** Universidade UNA Pouso Alegre  
@@ -8,7 +7,7 @@
 
 ## Resumo
 
-Esta disciplina desenvolve raciocínio algorítmico e lógica de programação usando pseudocódigo em VisuALG (Portugol) como meio principal de ensino, seguido da tradução e revisão dos conceitos em C++ aplicados ao Arduino. O foco é consolidar estruturas (sequência, decisão, repetição) em pseudocódigo e aplicar essas ideias em C++/Arduino.
+Esta disciplina desenvolve raciocínio algorítmico e lógica de programação usando pseudocódigo em `VisuALG` (Portugol) como meio principal de ensino, seguido da tradução e revisão dos conceitos em C++ aplicados ao Arduino. O foco é consolidar estruturas (sequência, decisão, repetição) em pseudocódigo e aplicar essas ideias em C++/Arduino.
 
 ## Objetivos rápidos
 
@@ -48,7 +47,7 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 12. **Aula 12 — 29/04/2026** — C++ II: condicionais e boas práticas
     - Atividade: problemas de validação em C++
 13. **Aula 13 — 06/05/2026** — Arduino I: ambiente, Serial e IPO
-    - Atividade: ler/escrever via Serial; testar lógica em hardware ou simulação
+    - Atividade: ler/escrever via `Serial`; testar lógica em hardware ou simulação
 14. **Aula 14 — 13/05/2026** — Arduino II: condicionais com I/O (LED, botão)
     - Atividade: exemplo prático com entrada e saída
 15. **Aula 15 — 20/05/2026** — Arduino III: repetição e integração (contadores/acumuladores)
@@ -68,7 +67,7 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 
 ## Avaliação (resumida)
 
-- Em contrução
+- Em construção (detalhes e critérios serão anunciados na primeira aula)
 
 ## Materiais e ferramentas
 
@@ -81,4 +80,3 @@ Esta disciplina desenvolve raciocínio algorítmico e lógica de programação u
 - Este arquivo é o plano geral do semestre. Em cada aula serão entregues exercícios e, quando relevante, modelos de código no repositório.
 - Priorize escrever pseudocódigo claro antes de traduzir para C++ — isso facilita o debug e o entendimento.
 
----
